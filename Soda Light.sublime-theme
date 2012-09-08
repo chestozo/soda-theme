@@ -394,7 +394,7 @@
         "layer0.texture": "Theme - Soda/Soda Light/tooltip.png",
         "layer0.inner_margin": [1, 1],
         "layer0.opacity": 0.95,
-        "content_margin": [3, 3]
+        "content_margin": [2, 1]
     },
     // Tooltip content
     {
@@ -412,7 +412,7 @@
         "layer0.texture": "Theme - Soda/Soda Light/status-bar-background.png",
         "layer0.opacity": 1.0,
         "layer0.inner_margin": [2, 2],
-        "content_margin": [8, 4, 8, 4]
+        "content_margin": [8, 2, 8, 2]
     },
     // Status bar button
     {
@@ -467,7 +467,7 @@
         "color": [110, 126, 141],
         "font.bold": true,
         "shadow_color": [249, 250, 252],
-        "shadow_offset": [0, 1]
+        "shadow_offset": [1, 1]
     },
     // Sidebar entry
     {
