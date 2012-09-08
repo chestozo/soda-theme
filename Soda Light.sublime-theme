@@ -11,10 +11,10 @@
         "layer0.inner_margin": [1, 7],
         "layer0.opacity": 1.0,
         "content_margin": [-4, 0, -4, 3],
-        "tab_overlap": 5,
-        "tab_width": 180,
+        "tab_overlap": 15,
+        "tab_width": 120,
         "tab_min_width": 45,
-        "tab_height": 25,
+        "tab_height": 20,
         "mouse_wheel_switch": false
     },
     {
@@ -110,7 +110,7 @@
 //
 // TAB BUTTONS
 //
-    
+
     // Tab close button
     {
         "class": "tab_close_button",
@@ -189,7 +189,7 @@
 //
 // TAB LABELS
 //
-    
+
     {
         "class": "tab_label",
         "fade": true,
@@ -263,24 +263,6 @@
         "layer0.texture": "Theme - Soda/Soda Light/standard-scrollbar-corner.png",
         "layer0.inner_margin": [2, 2],
         "layer0.opacity": 1.0
-    },
-    // Standard vertical scroll puck
-    {
-        "class": "puck_control",
-        "layer0.texture": "Theme - Soda/Soda Light/standard-puck-vertical.png",
-        "layer0.opacity": 1.0,
-        "layer0.inner_margin": [0, 10],
-        "content_margin": [8, 12],
-        "blur": false
-    },
-    // Standard horizontal scroll puck
-    {
-        "class": "puck_control",
-        "attributes": ["horizontal"],
-        "layer0.texture": "Theme - Soda/Soda Light/standard-puck-horizontal.png",
-        "layer0.inner_margin": [10, 0],
-        "content_margin": [12, 8],
-        "blur": false
     },
 
 //
